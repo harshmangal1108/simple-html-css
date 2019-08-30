@@ -1,0 +1,47 @@
+body{
+    background-color: #2d3436;
+}
+.nav{
+    background-color: #95a5a6;
+    padding:2%;
+    width: 80%;
+    color: #2d3436;
+    margin-top: 37px;
+    font-family:Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+
+}
+.cen{
+    background-color: #95a5a6;
+    width: 50%;
+    height: 50%;
+    margin-top: 230px;
+}
+.cen1{
+    background-color: #95a5a6;
+    width: 50%;
+    height: 50%;
+    margin-top: 230px;
+}
+input[type=text] {
+  width: 30%;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+  width: 80%;
+}
+h3{
+    color: #2d3436;
+    font-family:Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+}
+form{
+    font-size:20px;
+    color: #2d3436;
+}
+.butt{
+    color: #2d3436;
+    font-family:Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+
+}
